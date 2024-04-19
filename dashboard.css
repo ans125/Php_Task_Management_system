@@ -1,0 +1,115 @@
+#header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 0;
+    border-bottom: 2px solid #0056b3;
+}
+
+#header h3 {
+    margin: 0;
+}
+
+/* User details styling */
+.user-details {
+    font-size: 14px;
+}
+
+/* Side menu styling */
+#side-menu {
+    background-color: #f8f9fa;
+    border-right: 1px solid #dee2e6;
+    padding-top: 20px;
+    min-height: 100vh;
+}
+
+#side-menu .nav-link {
+    color: #495057;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+#side-menu .nav-link:hover {
+    background-color: #e9ecef;
+    color: #000;
+}
+
+/* Main content area styling */
+#main-content {
+    padding-top: 20px;
+}
+
+.instructions h4 {
+    color: #007bff;
+}
+
+.instructions ul {
+    padding-left: 20px;
+    list-style-type: none;
+}
+
+.instructions ul li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #333;
+    
+}
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+/* Header Styles */
+.header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.user-details span {
+    margin-left: 10px;
+}
+
+/* Side Menu Styles */
+#side-menu {
+    background-color: #fff;
+    padding-top: 20px;
+    min-height: 100vh;
+    border-right: 1px solid #dee2e6;
+}
+
+.nav-link {
+    font-weight: bold;
+}
+
+.nav-link.active {
+    color: #007bff;
+}
+
+/* Main Content Area Styles */
+#main-content {
+    padding-top: 20px;
+}
+
+.instructions h2 {
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.instructions ul {
+    padding-left: 20px;
+}
+
+.instructions ul li {
+    margin-bottom: 10px;
+}
